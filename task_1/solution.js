@@ -13,7 +13,7 @@ function addInCartMessage(title, price) {
     // добавьте в конец переменной message пробел
     // добавьте в конец переменной message текст 'теперь в корзине!'
     // выведите переменную message в консоль
-    // new comment
+    // new comment1
 
     // Конец решения задания №1.1.
 
